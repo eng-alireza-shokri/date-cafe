@@ -2,8 +2,6 @@
 
 **Online Ordering Website · Client Project Portfolio Case Study**
 
-![Date Cafe project preview](assets/cover.jpeg)
-
 ## Overview
 
 Cafe and restaurant website created to present the menu, support table reservations, and accept online orders with a mobile-focused user experience.
@@ -25,11 +23,11 @@ Cafe and restaurant website created to present the menu, support table reservati
 
 ## Source Code
 
-The production source code is **not published** in this repository. This is a client-owned project, and this repository is intentionally limited to a portfolio case study and archived visual material.
+The production source code is **not published** in this repository. This is a client-owned project, and this repository is intentionally limited to a portfolio case study and text-only project documentation.
 
 ## Portfolio Note
 
-The screenshot above is an archived project preview from my portfolio records. A client's live website may have changed after delivery, so the current production site should not automatically be treated as an exact representation of the version shown here.
+This text-only case study documents the project's professional scope. The client's live website may have changed after delivery.
 
 ## Rights & Attribution
 
